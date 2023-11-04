@@ -1,4 +1,3 @@
-
 # Создадим сеть и подсеть
 yc vpc network create `
 --name cloud-eng-course `
